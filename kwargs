@@ -1,0 +1,13 @@
+#kwargs(**)
+#it stores in dictionaries
+
+'''def details(**a):
+    print(a)
+    print(type(a))
+details()
+d={"idnos":[10,20,30],
+   "names":["savi","teja","sruthi"],
+   "status":["P","A","P"]}
+details(**d)'''
+
+
